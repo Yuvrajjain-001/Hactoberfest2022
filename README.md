@@ -15,14 +15,10 @@
 
 If you want to practice to make a pull request, follow the CONTRIBUTING.md
 
- 
-
 Check out `good-first-issues` for contributing [here](https://github.com/sj5027052/Hacktoberfest2022/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 </div>
 
 <br>
-
- 
 
 ### Author
 
@@ -57,6 +53,7 @@ If you like this project, please consider supporting it by giving it a ⭐️. I
 
 - [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com)
 - [Hacktoberfest 2022 Participation Guidelines](https://hacktoberfest.com/participation)
+
 
 <br>
 
